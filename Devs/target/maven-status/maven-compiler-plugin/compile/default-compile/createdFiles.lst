@@ -1,0 +1,8 @@
+Kodlama\io\Devs\webApi\LanguageControllers.class
+Kodlama\io\Devs\business\abstracts\LanguageService.class
+Kodlama\io\Devs\dataAccess\concretes\InMemoryLanguageRepository.class
+Kodlama\io\Devs\dataAccess\abstracrs\LanguageRepository.class
+Kodlama\io\Devs\Main.class
+Kodlama\io\Devs\business\entities\Language.class
+Kodlama\io\Devs\entities\Language.class
+Kodlama\io\Devs\business\concretes\LanguageManager.class

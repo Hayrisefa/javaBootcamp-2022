@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: Kodlama.io.Devs.DevsApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.239 s <<< FAILURE! - in Kodlama.io.Devs.DevsApplicationTests
+Kodlama.io.Devs.DevsApplicationTests  Time elapsed: 0.233 s  <<< ERROR!
+java.lang.IllegalStateException: Unable to find a @SpringBootConfiguration, you need to use @ContextConfiguration or @SpringBootTest(classes=...) with your test
+
